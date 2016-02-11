@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="prvi.css" />
     <meta charset="UTF-8">
     <title>Naslov</title>
 </head>
